@@ -1,3 +1,8 @@
+---
+title: "Welcome"
+date: 2019-07-04
+---
+
 # My first blog post on Github
 
 *Github is so interesting!*
